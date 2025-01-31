@@ -10,3 +10,4 @@ country = result['sys']['county']
 weather = result['weather'][0]()
 des
 print(result)
+
